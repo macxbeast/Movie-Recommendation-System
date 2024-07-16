@@ -10,8 +10,7 @@ The movie recommendation system is designed to provide personalized movie sugges
 
 + Vectorization and Similarity Measurement: Utilized Bag of Words vectorization and cosine similarity techniques to quantify and measure the similarity between movie contents.
 
-## Technologies Used
-- Python
+## Tech Stack
 * Pandas
 + NumPy
 - Scikit-Learn
